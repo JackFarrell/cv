@@ -1,0 +1,158 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://output.jsbin.com/kimuguy
+Subject: Contact Jack
+Date: Sat, 17 Oct 2020 10:44:19 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--71Z20OIi8xJwPAC2kAASVHa1Z5PTulgcn3xOV06JvW----"
+
+
+------MultipartBoundary--71Z20OIi8xJwPAC2kAASVHa1Z5PTulgcn3xOV06JvW----
+Content-Type: text/html
+Content-ID: <frame-F8B6FE1CABDB15BF61E4006ADD8E3B1A@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://output.jsbin.com/kimuguy
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D=
+"cid:css-bb39934f-8311-470d-a045-9f6949306985@mhtml.blink" />
+ =20
+<!--
+Created using JS Bin
+http://jsbin.com
+
+Copyright (c) 2020 by JackFarrell (http://jsbin.com/kimuguy/2/edit)
+
+Released under the MIT license: http://jsbin.mit-license.org
+-->
+<meta name=3D"robots" content=3D"noindex">
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width">
+  <title>Contact Jack</title>
+
+
+</head>
+<body>
+  <h1>Contact me at jack.conner.farrell@gmail.com</h1>
+  <form action=3D"mailto:jack.conner.farrell@gmail.com" method=3D"post" enc=
+type=3D"text/plain">
+    <label>Your Name:</label>
+    <input type=3D"text" name=3D"yourName" value=3D""><br>
+    <label>Your Email</label>
+    <input type=3D"" name=3D"yourEmail" value=3D""><br>
+    <label>Message:</label><br>
+    <textarea name=3D"yourMessage" rows=3D"10" cols=3D"30"></textarea><br>
+    <label> Do you want to sign up to our email list?</label>
+    <input type=3D"checkbox">
+    <input type=3D"submit" name=3D"">
+  </form>
+
+
+
+
+
+</body><a id=3D"edit-with-js-bin" href=3D"https://jsbin.com/kimuguy/edit" s=
+tyle=3D"top: 0px;">Edit in JS Bin <img src=3D"https://static.jsbin.com/imag=
+es/favicon.png" width=3D"16" height=3D"16"></a><link rel=3D"stylesheet" hre=
+f=3D"https://static.jsbin.com/css/edit.css"></html>
+------MultipartBoundary--71Z20OIi8xJwPAC2kAASVHa1Z5PTulgcn3xOV06JvW----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-bb39934f-8311-470d-a045-9f6949306985@mhtml.blink
+
+@charset "utf-8";
+
+#Message { width: 150px; height: 130px; }
+------MultipartBoundary--71Z20OIi8xJwPAC2kAASVHa1Z5PTulgcn3xOV06JvW----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://static.jsbin.com/images/favicon.png
+
+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
+
+------MultipartBoundary--71Z20OIi8xJwPAC2kAASVHa1Z5PTulgcn3xOV06JvW----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://static.jsbin.com/css/edit.css
+
+@charset "utf-8";
+
+#edit-with-js-bin { position: fixed; top: 0px; right: 5px; display: inline-=
+block; padding: 7px 5px 8px 9px; border-width: 0px 1px 1px; border-right-st=
+yle: solid; border-bottom-style: solid; border-left-style: solid; border-ri=
+ght-color: rgb(153, 153, 153); border-bottom-color: rgb(153, 153, 153); bor=
+der-left-color: rgb(153, 153, 153); border-image: initial; border-top-style=
+: initial; border-top-color: initial; color: rgb(119, 119, 119); text-shado=
+w: white 0px 1px 1px; text-decoration: none; font: 12px "Helvetica Neue", A=
+rial, Helvetica; white-space: nowrap; background: rgb(221, 221, 221); trans=
+ition: top 100ms ease-out 0s; }
+
+#edit-with-js-bin:hover { color: rgb(51, 51, 51); }
+
+#edit-with-js-bin img { width: 16px; height: 16px; vertical-align: top; bor=
+der: 0px; margin: -1px 0px 0px 3px; }
+
+@media print {
+  #edit-with-js-bin { display: none; }
+}
+------MultipartBoundary--71Z20OIi8xJwPAC2kAASVHa1Z5PTulgcn3xOV06JvW------
